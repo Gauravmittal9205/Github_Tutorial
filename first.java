@@ -1,4 +1,4 @@
-import javax.sql.rowset.spi.SyncResolver;
+
 
 public class first {
     public static void main(String[] args) {
